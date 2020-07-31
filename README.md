@@ -1,6 +1,14 @@
-### Hola 👋
+<p align="center">
+  <a href="https://www.facebook.com/RaulprTech">
+    <img alt="Portada de github" src="https://scontent.fmid1-2.fna.fbcdn.net/v/t1.0-9/116482771_170247517902499_4517816652319307542_o.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_eui2=AeGIhGADEU7TnjKnVNCtZYMfAnxWKJJDsBECfFYokkOwEXSPeln7I5nl3qPSL4aoJ1amsOZWqxV8nvbxMv0t752-&_nc_ohc=SSflCKPOP8IAX9dETg9&_nc_ht=scontent.fmid1-2.fna&oh=5dafded906bb12a1ec630b621201aca3&oe=5F499172" />
+  </a>
+</p>
+
+# Hola 👋
 
 ## Soy Raul Pacheco. Programador e ingeniero, me encanta siempre seguir aprendiendo y compartir conocimiento.
+
+## 🚀 Comenzemos a crear
 
 <!--
 **RaulprTech/RaulprTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
