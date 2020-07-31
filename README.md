@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/RaulprTech">
-    <img alt="Portada de github" src="https://scontent.fmid1-2.fna.fbcdn.net/v/t1.0-9/116482771_170247517902499_4517816652319307542_o.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_eui2=AeGIhGADEU7TnjKnVNCtZYMfAnxWKJJDsBECfFYokkOwEXSPeln7I5nl3qPSL4aoJ1amsOZWqxV8nvbxMv0t752-&_nc_ohc=SSflCKPOP8IAX9dETg9&_nc_ht=scontent.fmid1-2.fna&oh=5dafded906bb12a1ec630b621201aca3&oe=5F499172" />
+    <img alt="Portada de github" src="https://scontent.fmid1-1.fna.fbcdn.net/v/t1.0-9/116580095_170250844568833_8130640719230734519_n.png?_nc_cat=108&_nc_sid=e3f864&_nc_eui2=AeGXzkH7FVT15C6sVbcjeCgY6R5mYo3UVevpHmZijdRV68a3s1boYwI97cA37Gltd4qcPw3g0pthjFFXfoWb9STd&_nc_ohc=kWp5ObH0YGcAX-iRY5K&_nc_ht=scontent.fmid1-1.fna&oh=08e1339cdbdeeded19f3557045600dbf&oe=5F4B338E" />
   </a>
 </p>
 
