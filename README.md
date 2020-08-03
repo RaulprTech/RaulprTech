@@ -6,9 +6,9 @@
 
 # Hola 👋
 
-## Soy Raul Pacheco. Programador e ingeniero, me encanta siempre seguir aprendiendo y compartir conocimiento.
+## Soy Raul Pacheco. Programador e ingeniero, me encanta mantenerme en constante aprendizaje y compartir lo que aprendo.
 
-## 🚀 Comenzemos a crear
+## 🚀 Acualmente aprendo GraphQl con Gatsby y estoy probando TailWind
 
 <!--
 **RaulprTech/RaulprTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
