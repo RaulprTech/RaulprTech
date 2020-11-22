@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://www.facebook.com/RaulprTech">
-    <img alt="Portada de github" src="https://scontent.fmid1-1.fna.fbcdn.net/v/t1.0-9/116580095_170250844568833_8130640719230734519_n.png?_nc_cat=108&_nc_sid=e3f864&_nc_eui2=AeGXzkH7FVT15C6sVbcjeCgY6R5mYo3UVevpHmZijdRV68a3s1boYwI97cA37Gltd4qcPw3g0pthjFFXfoWb9STd&_nc_ohc=kWp5ObH0YGcAX-iRY5K&_nc_ht=scontent.fmid1-1.fna&oh=08e1339cdbdeeded19f3557045600dbf&oe=5F4B338E" />
+    <img alt="Portada de github" src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/116580095_170250844568833_8130640719230734519_n.png?_nc_cat=108&ccb=2&_nc_sid=e3f864&_nc_ohc=8-Ef4Kem0dEAX9E-E-b&_nc_ht=scontent-qro1-1.xx&oh=b2fabb70cc4cb25a4c5b16d71acc9558&oe=5FE17E8E" />
   </a>
 </p>
 
-# Hola 👋
+# Hi 👋
 
-## Soy Raul Pacheco. Programador e ingeniero, me encanta mantenerme en constante aprendizaje y compartir lo que aprendo.
+## I'm Raul Pacheco. I'm frontend developer and I like to participate in interesting projects
 
-## 🚀 Acualmente aprendo GraphQl con Gatsby y estoy probando TailWind
+## 🚀 I'm very good at creating interfaces with javascript and react
 
 <!--
 **RaulprTech/RaulprTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
