@@ -1,14 +1,10 @@
-<p align="center">
-  <a href="https://www.facebook.com/RaulprTech">
-    <img alt="Portada de github" src="https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/116580095_170250844568833_8130640719230734519_n.png?_nc_cat=108&ccb=2&_nc_sid=e3f864&_nc_ohc=8-Ef4Kem0dEAX9E-E-b&_nc_ht=scontent-qro1-1.xx&oh=b2fabb70cc4cb25a4c5b16d71acc9558&oe=5FE17E8E" />
-  </a>
-</p>
-
 # Hi 👋
 
 ## I'm Raul Pacheco. I'm frontend developer and I like to participate in interesting projects
 
 ## 🚀 I'm very good at creating interfaces with javascript and react
+
+
 
 <!--
 **RaulprTech/RaulprTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
