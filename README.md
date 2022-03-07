@@ -1,6 +1,6 @@
 # Hi 👋
 
-## I'm Raul Pacheco. I'm frontend developer and I like to participate in interesting projects
+## I'm Raul Pacheco. I'm developer and Electronic Engineer. I like to participate in interesting projects
 
 ## 🚀 I'm very good at creating interfaces with javascript and react
 
