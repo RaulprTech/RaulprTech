@@ -2,7 +2,7 @@
 
 # Hi 👋
 
-## I'm Raul Pacheco. I'm developer and Electronic Engineer. 
+## I'm Raul Pacheco. I'm Frontend Developer and Electronic Engineer. 
 
 ## I like to participate in interesting projects and build awesome things
 
