@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/RaulprTech/RaulprTech/master/5.png)
 
-## Hi 👋   I'm **Raul Pacheco**
+## Hi 👋   I'm **Raul Pacheco Rodriguez**
 
 ### I'm Frontend Developer and Electronic Engineer. 
 
@@ -22,12 +22,17 @@ My favorite stack is based on a lot of javascript, but I also like to explore th
 
 ## I'm @raulprtech in internet
 
-🔎 If you want to know more about me, find me in:
- 
+💼 This is my Portfolio:
+
 <section>
   <a href="https://raulprtech.netlify.app/">
     <img width="4%" src="https://raulprtech.netlify.app/static/logo-616523d5edf673bc6ed72190727931a1.png">
   </a>
+</section>
+
+🔎 If you want to know more about me, find me in:
+ 
+<section>
   <a href="https://www.linkedin.com/in/raulprtech">
     <img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
   </a>
