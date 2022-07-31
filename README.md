@@ -11,7 +11,7 @@ I love learn above IA, Robotics and IoT 🌐
 My favorite stack is based on a lot of javascript, but I also like to explore the possibilities of using Python 🐍 or C 👾
 
 
-<table align="center">
+<!-- <table align="center">
   <tr>
   </tr>
   <tr align="center">
@@ -34,7 +34,7 @@ My favorite stack is based on a lot of javascript, but I also like to explore th
       <img width="80%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ## I'm @raulprtech in internet
