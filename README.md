@@ -2,11 +2,11 @@
 
 ## Hi 👋   I'm **Raul Pacheco Rodriguez**
 
-### I'm Frontend Developer 🖼️ and Electronic Engineer 👨‍🔬 
+### I'm Electronic Engineer 👨‍🔬 and Web Developer 🌐
 
 I like to participate in interesting projects 😁 and build awesome things 🧩 I'm very good at creating interfaces with javascript and react 🚀
 
-I love learn above IA, Robotics and IoT 🌐
+I love learn above IA, Robotics and IoT 
 
 My favorite stack is based on a lot of javascript, but I also like to explore the possibilities of using Python 🐍 or C 👾
 
