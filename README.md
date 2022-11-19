@@ -135,7 +135,7 @@ I like to participate in interesting projects 😁 and build awesome things 🧩
 
 ### 👨‍🏫 Education
 <a href="https://platzi.com/p/RaulprTech/" target="_blank" name="Platzi">
-  <img width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label=">
 </a>
 
 <!--
@@ -165,7 +165,7 @@ Here are some ideas to get you started:
 🔎 If you want to know more about me, find me in:
 
 <a href="https://raulpacheco.dev" target="_blank">
-  <img width="3%" src="https://raulprtech.netlify.app/static/logo-616523d5edf673bc6ed72190727931a1.png">
+  <img width="4%" src="https://raulprtech.netlify.app/static/logo-616523d5edf673bc6ed72190727931a1.png">
 </a>
 <a href="https://twitter.com/raulprtech" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
