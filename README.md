@@ -168,11 +168,11 @@ Here are some ideas to get you started:
   <img width="3%" src="https://raulprtech.netlify.app/static/logo-616523d5edf673bc6ed72190727931a1.png">
 </a>
 <a href="https://twitter.com/raulprtech" target="_blank">
-  <img width="11%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
 </a>
 <a href="https://www.linkedin.com/in/raulprtech" target="_blank">
-  <img width="11%" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=">
 </a>
 <a href="https://www.facebook.com/RaulprTech" target="_blank">
-  <img width="11%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=">
 </a>
