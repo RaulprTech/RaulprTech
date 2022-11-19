@@ -71,22 +71,22 @@ I love learn above IA, Robotics and IoT
   <tr></tr>
   <tr align="center">
     <td width="10%">
-      <a href="https://raulpacheco.dev">
+      <a href="https://raulpacheco.dev" target="_blank">
         <img width="20%" src="https://raulprtech.netlify.app/static/logo-616523d5edf673bc6ed72190727931a1.png">
       </a>
     </td>
     <td width="10%">
-      <a href="https://www.linkedin.com/in/raulprtech">
+      <a href="https://www.linkedin.com/in/raulprtech" target="_blank">
         <img width="50%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
       </a>
     </td>
     <td width="10%">
-      <a href="https://twitter.com/raulprtech">
+      <a href="https://twitter.com/raulprtech" target="_blank">
         <img width="50%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">
       </a>
     </td>
     <td width="10%">
-      <a href="https://www.facebook.com/RaulprTech">
+      <a href="https://www.facebook.com/RaulprTech" target="_blank">
         <img width="50%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">
       </a>
     </td>
