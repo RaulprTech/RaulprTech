@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/RaulprTech/RaulprTech/master/5.png)
+![](https://raw.githubusercontent.com/RaulprTech/RaulprTech/master/Portada-personal.png)
 
 ## Hi 👋   I'm **Raul Pacheco Rodriguez**
 
